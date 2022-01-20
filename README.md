@@ -1,2 +1,1 @@
-# wine-quality-analysis
-Data Science project analyzing the relationships between pH level, density, acid concentration and wine quality. 
+[Wine Analysis Findings.docx](https://github.com/dtsiokas/wine-quality-analysis/files/7909195/Wine.Analysis.Findings.docx)
