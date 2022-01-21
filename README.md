@@ -1,3 +1,5 @@
+Wine Quality Analysis
+
 PART 1: SIMPLE LINEAR REGRESSION ANALYSIS (CHAPTERS 4, 16, 17)
 In order to analyze the association between pH level and citric acid concentration, we set pH level as the response (y) variable and citric acid concentration as the predictor (x) variable. The pH level will be changed by the concentration of hydrogen ions (acidity) of a solution and that is provided by the citric acid. Thus, based on the definition, the citric acid concentration is the response variable and provided to predict the pH level.  
 After constructing a scatterplot of the pH level against citric acid concentration, the R output showed the correlation coefficient between citric acid and pH level is -0.543303. Hence, there is a moderate, negative linear relationship between y and x. Therefore, there is no need for applying transformations. 
